@@ -1,0 +1,7 @@
+C:\Users\nikit\Desktop\УЧЁБА 2 КУРС\КУРСЫ\task$\task$\bin\Debug\task$.exe.config
+C:\Users\nikit\Desktop\УЧЁБА 2 КУРС\КУРСЫ\task$\task$\bin\Debug\task$.exe
+C:\Users\nikit\Desktop\УЧЁБА 2 КУРС\КУРСЫ\task$\task$\bin\Debug\task$.pdb
+C:\Users\nikit\Desktop\УЧЁБА 2 КУРС\КУРСЫ\task$\task$\obj\Debug\task$.csprojAssemblyReference.cache
+C:\Users\nikit\Desktop\УЧЁБА 2 КУРС\КУРСЫ\task$\task$\obj\Debug\task$.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\УЧЁБА 2 КУРС\КУРСЫ\task$\task$\obj\Debug\task$.exe
+C:\Users\nikit\Desktop\УЧЁБА 2 КУРС\КУРСЫ\task$\task$\obj\Debug\task$.pdb
